@@ -7,7 +7,7 @@ import os
 
 from keep_alive import keep_alive
 keep_alive()
-7787267078:AAE5mVuodLgULlmFCTT5TatFMP8lmRuFBGg
+
 bot = telebot.TeleBot('7656798038:AAGy0655M1Usf89kH-p6DxoNzIPiGGUQA7A')
 
 # Admin user IDs
